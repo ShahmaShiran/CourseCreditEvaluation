@@ -3,13 +3,13 @@
 **Description**<br>
 This Python program helps evaluate course credits and progression for students and staff. It provides functionality for both students to check their progression status based on credits, and for staff to track multiple students' credit data and generate a report. The program includes validation checks and provides options for sorting and displaying data in different formats.
 
-**Features**
+**Features**<br>
 Student Functionality:
 The student enters their pass, defer, and refer credits.
 The system evaluates whether the student has progressed, been deferred, or is excluded.
 It validates the inputs and provides a progression status before exiting.
 
-**Staff Functionality:**
+**Staff Functionality:**<br>
 The staff inputs the credits for multiple students, storing them in an array.
 The program repeatedly prompts for input until the staff decides to quit.
 
@@ -20,10 +20,10 @@ Are module retrievers
 Are excluded
 The staff can choose how to display the data: either in the order of entry or sorted by progression status.
 
-**Data Output:**
+**Data Output:**<br>
 The data is saved to an array and/or a text file and can be displayed in the console in either sorted or unsorted format.
 
-**Example**
+**Example**<br>
 Student Workflow:
 Input:
 Pass Credits: 120
