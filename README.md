@@ -1,6 +1,6 @@
 # CourseCreditEvaluation
 
-**Description**
+**Description**\n
 This Python program helps evaluate course credits and progression for students and staff. It provides functionality for both students to check their progression status based on credits, and for staff to track multiple students' credit data and generate a report. The program includes validation checks and provides options for sorting and displaying data in different formats.
 
 **Features**
